@@ -19,7 +19,7 @@ const Header = () => {
             })}
         >
           <Image
-            src="logo.svg"
+            src="/logo.svg"
             alt="NryptoPlease logo"
             width={132}
             height={40}
